@@ -19,6 +19,7 @@ alert( isIsogram("") );
 
 console.log();
 alert();
+confirm();
 
 
  
