@@ -18,6 +18,7 @@ alert( isIsogram("moOse") );
 alert( isIsogram("") );
 
 console.log();
+alert();
 
 
  
