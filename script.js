@@ -19,9 +19,7 @@ alert( isIsogram("") );
 
 
 alert();
-alert();
-alert();
-alert();
+
 
 
  
