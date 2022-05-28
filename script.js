@@ -17,11 +17,7 @@ alert( isIsogram("aba") );
 alert( isIsogram("moOse") );
 alert( isIsogram("") );
 
-
-alert();
-alert();
-alert();
-alert();
+console.log();
 
 
  
